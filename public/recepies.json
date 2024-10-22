@@ -1,0 +1,100 @@
+{
+  "recipes": [
+    {
+      "recipe_id": 1,
+      "recipe_name": "Grilled Chicken with Basil",
+      "recipe_image": "https://i.ibb.co.com/L8VfXbc/Grilled-Chicken-with-Basil.jpg",
+      "short_description": "A flavorful grilled chicken with fresh basil and mushrooms.",
+      "ingredients": [
+        "550 g chicken breast",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushrooms",
+        "2 tbsp olive oil",
+        "1 tsp garlic powder"
+      ],
+      "preparing_time": 30,
+      "calories": 320
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Classic Spaghetti Bolognese",
+      "recipe_image": "https://i.ibb.co.com/Xb1cFnj/Classic-Spaghetti-Bolognese.jpg",
+      "short_description": "A classic Italian pasta dish with rich beef sauce.",
+      "ingredients": [
+        "400 g ground beef",
+        "500 g spaghetti",
+        "200 g tomato sauce",
+        "100 g onions",
+        "2 cloves garlic",
+        "50 g grated Parmesan"
+      ],
+      "preparing_time": 40,
+      "calories": 550
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Vegetarian Tacos",
+      "recipe_image": "https://i.ibb.co.com/MMX7Drw/Vegetarian-Tacos.jpg",
+      "short_description": "Delicious vegetarian tacos filled with black beans and fresh veggies.",
+      "ingredients": [
+        "400 g black beans",
+        "150 g lettuce",
+        "2 tomatoes",
+        "50 g cheddar cheese",
+        "100 g corn",
+        "6 taco shells"
+      ],
+      "preparing_time": 20,
+      "calories": 270
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Salmon with Lemon Butter Sauce",
+      "recipe_image": "https://i.ibb.co.com/QKmN2Nc/Salmon-with-Lemon-Butter-Sauce.jpg",
+      "short_description": "Perfectly cooked salmon served with a tangy lemon butter sauce.",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 lemons",
+        "50 g butter",
+        "2 cloves garlic",
+        "1 tbsp olive oil",
+        "100 g asparagus"
+      ],
+      "preparing_time": 25,
+      "calories": 400
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Chocolate Chip Cookies",
+      "recipe_image": "https://i.ibb.co.com/BqFd392/Chocolate-Chip-Cookies.jpg",
+      "short_description": "Classic homemade chocolate chip cookies with a crispy edge and chewy center.",
+      "ingredients": [
+        "200 g all-purpose flour",
+        "150 g butter",
+        "100 g sugar",
+        "100 g brown sugar",
+        "150 g chocolate chips",
+        "1 egg"
+      ],
+      "preparing_time": 15,
+      "calories": 220
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Quinoa Salad with Avocado",
+      "recipe_image": "https://i.ibb.co.com/XbJHVR0/Quinoa-Salad-with-Avocado.jpg",
+      "short_description": "A healthy and refreshing quinoa salad with avocado and fresh herbs.",
+      "ingredients": [
+        "200 g quinoa",
+        "1 avocado",
+        "50 g spinach",
+        "2 tbsp olive oil",
+        "1 lime",
+        "50 g feta cheese"
+      ],
+      "preparing_time": 20,
+      "calories": 300
+    }
+  ]
+}

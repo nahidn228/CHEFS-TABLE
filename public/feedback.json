@@ -1,0 +1,110 @@
+[
+  {
+    "recipe_name": "Grilled Chicken with Basil",
+    "recipe_image": "https://i.ibb.co.com/L8VfXbc/Grilled-Chicken-with-Basil.jpg",
+    "feedback": [
+      {
+        "user_id": 101,
+        "user_name": "JohnDoe",
+        "rating": 5,
+        "comment": "The grilled chicken turned out amazing! The basil and soy sauce really enhanced the flavors."
+      },
+      {
+        "user_id": 102,
+        "user_name": "JaneSmith",
+        "rating": 4,
+        "comment": "Loved the chicken! It was a bit salty, but still great with the mushrooms."
+      }
+    ]
+  },
+  {
+    "recipe_name": "Classic Spaghetti Bolognese",
+    "recipe_image": "https://i.ibb.co.com/Xb1cFnj/Classic-Spaghetti-Bolognese.jpg",
+    "feedback": [
+      {
+        "user_id": 103,
+        "user_name": "Foodie123",
+        "rating": 5,
+        "comment": "Best spaghetti bolognese I've ever made at home! Rich and flavorful."
+      },
+      {
+        "user_id": 104,
+        "user_name": "PastaLover",
+        "rating": 4,
+        "comment": "Tasty but a bit too much beef for my liking. Will adjust next time."
+      }
+    ]
+  },
+  {
+    "recipe_name": "Vegetarian Tacos",
+    "recipe_image": "https://i.ibb.co.com/MMX7Drw/Vegetarian-Tacos.jpg",
+    "feedback": [
+      {
+        "user_id": 105,
+        "user_name": "VeggieFan",
+        "rating": 5,
+        "comment": "The vegetarian tacos were fresh and delicious! Easy to make and healthy."
+      },
+      {
+        "user_id": 106,
+        "user_name": "HealthyEater",
+        "rating": 4,
+        "comment": "Great flavors, but I think it needed a little more spice. Will add jalapenos next time!"
+      }
+    ]
+  },
+  {
+    "recipe_name": "Salmon with Lemon Butter Sauce",
+    "recipe_image": "https://i.ibb.co.com/QKmN2Nc/Salmon-with-Lemon-Butter-Sauce.jpg",
+    "feedback": [
+      {
+        "user_id": 107,
+        "user_name": "SeafoodLover",
+        "rating": 5,
+        "comment": "Perfectly cooked salmon! The lemon butter sauce was light and refreshing."
+      },
+      {
+        "user_id": 108,
+        "user_name": "FitFoodie",
+        "rating": 4,
+        "comment": "Loved the dish, but the butter made it a bit heavy for my taste."
+      }
+    ]
+  },
+  {
+    "recipe_name": "Chocolate Chip Cookies",
+    "recipe_image": "https://i.ibb.co.com/BqFd392/Chocolate-Chip-Cookies.jpg",
+    "feedback": [
+      {
+        "user_id": 109,
+        "user_name": "SweetTooth",
+        "rating": 5,
+        "comment": "Best chocolate chip cookies ever! Crispy on the outside, chewy on the inside."
+      },
+      {
+        "user_id": 110,
+        "user_name": "Baker123",
+        "rating": 4,
+        "comment": "Great recipe, but next time I'll use a bit less sugar."
+      }
+    ]
+  },
+  {
+    "recipe_name": "Quinoa Salad with Avocado",
+    "recipe_image": "https://i.ibb.co.com/XbJHVR0/Quinoa-Salad-with-Avocado.jpg",
+    "feedback": [
+      {
+        "user_id": 111,
+        "user_name": "HealthNut",
+        "rating": 5,
+        "comment": "Loved the quinoa salad! So fresh and the avocado added a great texture."
+      },
+      {
+        "user_id": 112,
+        "user_name": "SaladLover",
+        "rating": 4,
+        "comment": "Refreshing and healthy, but I might add more lime juice next time."
+      }
+    ]
+  }
+]

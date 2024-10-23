@@ -1,5 +1,4 @@
-{
-  "recipes": [
+ [
     {
       "recipe_id": 1,
       "recipe_name": "Grilled Chicken with Basil",
@@ -97,4 +96,4 @@
       "calories": 300
     }
   ]
-}
+
